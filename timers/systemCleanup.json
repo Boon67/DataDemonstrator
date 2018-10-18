@@ -1,0 +1,8 @@
+{
+    "description": "Resets the data payloads",
+    "frequency": 86400,
+    "name": "systemCleanup",
+    "repeats": -1,
+    "service_name": "sysCleanup",
+    "start_time": "2018-10-12T04:59:59.092Z"
+}
