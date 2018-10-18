@@ -1,0 +1,15 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 36,
+    "dependencies": "log,clearblade",
+    "execution_timeout": 600,
+    "logging_enabled": "false",
+    "name": "data_simulator",
+    "params": [
+        "{}"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "data_simulator.js"
+}
