@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Promises Library",
+    "name": "qLib",
+    "version": 3,
+    "visibility": "system"
+}
