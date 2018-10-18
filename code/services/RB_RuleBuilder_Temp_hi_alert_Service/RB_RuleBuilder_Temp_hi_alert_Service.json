@@ -1,0 +1,15 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 1,
+    "dependencies": "clearblade,log",
+    "execution_timeout": 60,
+    "logging_enabled": "false",
+    "name": "RB_RuleBuilder_Temp_hi_alert_Service",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "ce8cbcbb0bde90e7a0dfe1f3f0c301",
+    "source": "RB_RuleBuilder_Temp_hi_alert_Service.js"
+}
