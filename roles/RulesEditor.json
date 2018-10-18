@@ -1,0 +1,55 @@
+{
+    "Description": "Permissions to Edit Rules",
+    "ID": "cc88fbbb0bb28acbd0f2b2d08476",
+    "Name": "RulesEditor",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 1
+        },
+        "AllServices": {
+            "Level": 15
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "sysCleanup",
+                "SystemKey": "ecb9bbbb0bc8d8cfeb98c0978d5d"
+            }
+        ],
+        "Collections": [],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 1
+        },
+        "EdgesList": {
+            "Level": 1
+        },
+        "MsgHistory": {
+            "Level": 1
+        },
+        "Portals": [],
+        "Push": {
+            "Level": 0
+        },
+        "Roles": {
+            "Level": 15
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [
+            {
+                "Level": 3,
+                "Name": "#"
+            }
+        ],
+        "Triggers": {
+            "Level": 15
+        },
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
