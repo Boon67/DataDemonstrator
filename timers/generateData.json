@@ -1,0 +1,8 @@
+{
+    "description": "Data Generation Timer",
+    "frequency": 10,
+    "name": "generateData",
+    "repeats": -1,
+    "service_name": "data_simulator",
+    "start_time": "2018-10-09T03:34:11.911Z"
+}
