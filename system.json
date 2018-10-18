@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Demonstration of Portals for Verity",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "DataDemonstrator",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "ecb9bbbb0bc8d8cfeb98c0978d5d",
+    "system_secret": ""
+}
