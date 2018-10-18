@@ -1,0 +1,17 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 3,
+    "dependencies": "log,clearblade",
+    "execution_timeout": 600,
+    "logging_enabled": "false",
+    "name": "ui_icons",
+    "params": [
+        "{}"
+    ],
+    "permissions": {
+        "Anonymous": 1
+    },
+    "run_user": "",
+    "source": "ui_icons.js"
+}
